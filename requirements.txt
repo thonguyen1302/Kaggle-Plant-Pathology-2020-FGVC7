@@ -679,7 +679,7 @@ vida==0.3
 visions==0.2.2
 visvis==1.12.2
 vowpalwabbit==8.8.1
-vtk==8.1.2
+vtk==9.0.1
 Wand==0.5.3
 wandb==0.8.28
 wasabi==0.6.0
