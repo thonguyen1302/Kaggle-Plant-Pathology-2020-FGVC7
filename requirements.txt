@@ -60,7 +60,7 @@ catalogue==1.0.0
 catalyst==20.2.4
 catboost==0.22
 category-encoders==2.1.0
-certifi==2019.11.28
+certifi==2022.12.7
 cesium==0.9.12
 cffi==1.14.0
 cftime==1.1.0
